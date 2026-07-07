@@ -1,0 +1,27 @@
+{
+  "identifier" : "Transmission Fluid Log",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.transfluidlog.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Fluid type/brand memory with multi-vehicle interval alerts",
+          "displayName" : "Transmission Fluid Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.transfluidlog.pro",
+      "referenceName" : "Transmission Fluid Log Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
